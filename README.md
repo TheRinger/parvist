@@ -10,7 +10,7 @@ GPLv3
 
 Author
 ======
-Josten Moore
+Uknown
 
 Features
 ========
